@@ -1,0 +1,1900 @@
+{
+  "database": {
+    "GLd3aX16zBg": {
+      "duration": 241.62,
+      "subset": "training",
+      "recipe_type": "113",
+      "annotations": [
+        {
+          "segment": [
+            90,
+            102
+          ],
+          "id": 0,
+          "sentence": "将人造黄油涂在两片白面包上"
+        },
+        {
+          "segment": [
+            114,
+            127
+          ],
+          "id": 1,
+          "sentence": "把一片奶酪放在面包上"
+        },
+        {
+          "segment": [
+            132,
+            138
+          ],
+          "id": 2,
+          "sentence": "将两片面包叠在一起，放入热锅中"
+        },
+        {
+          "segment": [
+            139,
+            145
+          ],
+          "id": 3,
+          "sentence": "翻面并轻轻按压"
+        },
+        {
+          "segment": [
+            173,
+            174
+          ],
+          "id": 4,
+          "sentence": "沿对角线将三明治切成两半"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=GLd3aX16zBg"
+    },
+    "xHr8X2Wpmno": {
+      "duration": 206.86,
+      "subset": "validation",
+      "recipe_type": "226",
+      "annotations": [
+        {
+          "segment": [
+            47,
+            60
+          ],
+          "id": 0,
+          "sentence": "摘掉马齿苋的根部或老梗"
+        },
+        {
+          "segment": [
+            67,
+            89
+          ],
+          "id": 1,
+          "sentence": "在碗中混合柠檬汁、漆树粉、大蒜、盐和油"
+        },
+        {
+          "segment": [
+            91,
+            98
+          ],
+          "id": 2,
+          "sentence": "切碎生菜并放入碗中"
+        },
+        {
+          "segment": [
+            99,
+            137
+          ],
+          "id": 3,
+          "sentence": "将马齿苋、辣椒、黄瓜、番茄、香草和洋葱加入碗中的生菜上"
+        },
+        {
+          "segment": [
+            153,
+            162
+          ],
+          "id": 4,
+          "sentence": "将调味汁浇在沙拉上并拌匀"
+        },
+        {
+          "segment": [
+            163,
+            185
+          ],
+          "id": 5,
+          "sentence": "将炸皮塔饼加入沙拉并拌匀"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=xHr8X2Wpmno"
+    },
+    "V53XmPeyjIU": {
+      "duration": 189.36,
+      "subset": "validation",
+      "recipe_type": "105",
+      "annotations": [
+        {
+          "segment": [
+            16,
+            26
+          ],
+          "id": 0,
+          "sentence": "在碗中混合盐、黄油、牛奶和辣酱"
+        },
+        {
+          "segment": [
+            33,
+            36
+          ],
+          "id": 1,
+          "sentence": "将鸡肉放入小碗，倒入盐水腌制并冷冻1小时"
+        },
+        {
+          "segment": [
+            46,
+            53
+          ],
+          "id": 2,
+          "sentence": "倒掉盐水，将鸡肉彻底冲洗干净并甩干水分"
+        },
+        {
+          "segment": [
+            60,
+            89
+          ],
+          "id": 3,
+          "sentence": "将鸡肉放在盘子或托盘上，用混合香料大量调味"
+        },
+        {
+          "segment": [
+            93,
+            103
+          ],
+          "id": 4,
+          "sentence": "用盐、胡椒和芹菜盐给面粉调味"
+        },
+        {
+          "segment": [
+            108,
+            129
+          ],
+          "id": 5,
+          "sentence": "将鸡块裹上面粉"
+        },
+        {
+          "segment": [
+            158,
+            168
+          ],
+          "id": 6,
+          "sentence": "将鸡肉放入热油中炸至金黄"
+        },
+        {
+          "segment": [
+            173,
+            180
+          ],
+          "id": 7,
+          "sentence": "深色肉一起炸，浅色肉一起炸"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=V53XmPeyjIU"
+    },
+    "mZwK0TBI1iY": {
+      "duration": 264.95,
+      "subset": "validation",
+      "recipe_type": "201",
+      "annotations": [
+        {
+          "segment": [
+            21,
+            32
+          ],
+          "id": 0,
+          "sentence": "混合面包糠和帕玛森奶酪"
+        },
+        {
+          "segment": [
+            36,
+            44
+          ],
+          "id": 1,
+          "sentence": "捶打鸡肉"
+        },
+        {
+          "segment": [
+            44,
+            55
+          ],
+          "id": 2,
+          "sentence": "在鸡肉上抹盐和胡椒"
+        },
+        {
+          "segment": [
+            55,
+            78
+          ],
+          "id": 3,
+          "sentence": "在鸡肉上抹面粉，蘸蛋液，再裹上面包糠"
+        },
+        {
+          "segment": [
+            78,
+            96
+          ],
+          "id": 4,
+          "sentence": "在平底锅中煎鸡肉"
+        },
+        {
+          "segment": [
+            96,
+            102
+          ],
+          "id": 5,
+          "sentence": "在鸡肉上涂抹酱汁"
+        },
+        {
+          "segment": [
+            102,
+            107
+          ],
+          "id": 6,
+          "sentence": "在鸡肉上放马苏里拉奶酪"
+        },
+        {
+          "segment": [
+            111,
+            116
+          ],
+          "id": 7,
+          "sentence": "将鸡肉放入烤箱烘烤"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=mZwK0TBI1iY"
+    },
+    "H_9oM1Y60lU": {
+      "duration": 316.44,
+      "subset": "training",
+      "recipe_type": "103",
+      "annotations": [
+        {
+          "segment": [
+            67,
+            102
+          ],
+          "id": 0,
+          "sentence": "烤制肉饼"
+        },
+        {
+          "segment": [
+            129,
+            157
+          ],
+          "id": 1,
+          "sentence": "切碎烤甜椒并用盐和胡椒调味"
+        },
+        {
+          "segment": [
+            202,
+            222
+          ],
+          "id": 2,
+          "sentence": "在酱汁锅中加入黄油、面粉和热牛奶并搅拌"
+        },
+        {
+          "segment": [
+            229,
+            239
+          ],
+          "id": 3,
+          "sentence": "在锅中加入少许帕玛森奶酪和盐"
+        },
+        {
+          "segment": [
+            264,
+            305
+          ],
+          "id": 4,
+          "sentence": "将肉饼、奶酪酱和蔬菜夹入小圆面包中"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=H_9oM1Y60lU"
+    },
+    "XOwypmUT5cc": {
+      "duration": 698.71,
+      "subset": "training",
+      "recipe_type": "321",
+      "annotations": [
+        {
+          "segment": [
+            77,
+            98
+          ],
+          "id": 0,
+          "sentence": "将芝麻与鸡胸肉混合"
+        },
+        {
+          "segment": [
+            117,
+            166
+          ],
+          "id": 1,
+          "sentence": "加入食用油、酱油和盐，搅拌均匀"
+        },
+        {
+          "segment": [
+            175,
+            193
+          ],
+          "id": 2,
+          "sentence": "加入2汤匙玉米淀粉并腌制"
+        },
+        {
+          "segment": [
+            201,
+            264
+          ],
+          "id": 3,
+          "sentence": "混合鸡汤、老抽、料酒、海鲜酱、黑醋、糖和香油"
+        },
+        {
+          "segment": [
+            269,
+            319
+          ],
+          "id": 4,
+          "sentence": "将一些玉米淀粉与水调匀"
+        },
+        {
+          "segment": [
+            325,
+            403
+          ],
+          "id": 5,
+          "sentence": "将鸡块裹上面粉并在油中煎炸"
+        },
+        {
+          "segment": [
+            513,
+            579
+          ],
+          "id": 6,
+          "sentence": "煸炒蒜末、烤红辣椒和酱汁"
+        },
+        {
+          "segment": [
+            580,
+            588
+          ],
+          "id": 7,
+          "sentence": "加入玉米淀粉水芡汁"
+        },
+        {
+          "segment": [
+            600,
+            618
+          ],
+          "id": 8,
+          "sentence": "加入炸鸡并翻炒至均匀裹上酱汁"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=XOwypmUT5cc"
+    },
+    "_xOx9hkJoBk": {
+      "duration": 134.32,
+      "subset": "training",
+      "recipe_type": "107",
+      "annotations": [
+        {
+          "segment": [
+            21,
+            37
+          ],
+          "id": 0,
+          "sentence": "切鱿鱼圈"
+        },
+        {
+          "segment": [
+            57,
+            67
+          ],
+          "id": 1,
+          "sentence": "在同一碗中加入白胡椒粉、卡宴辣椒粉和黑胡椒粉"
+        },
+        {
+          "segment": [
+            68,
+            73
+          ],
+          "id": 2,
+          "sentence": "在碗中混合所有配料"
+        },
+        {
+          "segment": [
+            74,
+            79
+          ],
+          "id": 3,
+          "sentence": "用碗中的混合物裹住鱿鱼圈"
+        },
+        {
+          "segment": [
+            80,
+            100
+          ],
+          "id": 4,
+          "sentence": "将鱿鱼圈放在平底锅上，淋上油煎熟"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=_xOx9hkJoBk"
+    },
+    "67ilysu8CeU": {
+      "duration": 217.01,
+      "subset": "training",
+      "recipe_type": "401",
+      "annotations": [
+        {
+          "segment": [
+            16,
+            23
+          ],
+          "id": 0,
+          "sentence": "在锅中用大蒜和孜然籽热油"
+        },
+        {
+          "segment": [
+            25,
+            40
+          ],
+          "id": 1,
+          "sentence": "加入切碎的洋葱并翻炒"
+        },
+        {
+          "segment": [
+            67,
+            109
+          ],
+          "id": 2,
+          "sentence": "加入番茄泥并翻炒"
+        },
+        {
+          "segment": [
+            131,
+            158
+          ],
+          "id": 3,
+          "sentence": "加入鸡肉并裹上酱汁"
+        },
+        {
+          "segment": [
+            168,
+            197
+          ],
+          "id": 4,
+          "sentence": "用香菜粉调味并加入少许水"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=67ilysu8CeU"
+    },
+    "gEYyWqs1oL0": {
+      "duration": 225.98,
+      "subset": "validation",
+      "recipe_type": "310",
+      "annotations": [
+        {
+          "segment": [
+            14,
+            80
+          ],
+          "id": 0,
+          "sentence": "将金枪鱼切成较小的块"
+        },
+        {
+          "segment": [
+            88,
+            98
+          ],
+          "id": 1,
+          "sentence": "切掉鱼块的皮"
+        },
+        {
+          "segment": [
+            103,
+            126
+          ],
+          "id": 2,
+          "sentence": "切掉深色部分"
+        },
+        {
+          "segment": [
+            132,
+            140
+          ],
+          "id": 3,
+          "sentence": "将金枪鱼切成片"
+        },
+        {
+          "segment": [
+            147,
+            150
+          ],
+          "id": 4,
+          "sentence": "在金枪鱼旁放上芥末"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=gEYyWqs1oL0"
+    },
+    "nfYzqyureLo": {
+      "duration": 259.09,
+      "subset": "training",
+      "recipe_type": "222",
+      "annotations": [
+        {
+          "segment": [
+            28,
+            54
+          ],
+          "id": 0,
+          "sentence": "将香茅、姜、洋葱和辣椒切碎"
+        },
+        {
+          "segment": [
+            55,
+            80
+          ],
+          "id": 1,
+          "sentence": "在碗中预热油，加入洋葱、辣椒、香茅、姜和大蒜翻炒，盖上锅盖"
+        },
+        {
+          "segment": [
+            81,
+            123
+          ],
+          "id": 2,
+          "sentence": "丢弃破损和变质的贻贝"
+        },
+        {
+          "segment": [
+            129,
+            144
+          ],
+          "id": 3,
+          "sentence": "在锅中加入椰浆、鱼露和酱油"
+        },
+        {
+          "segment": [
+            161,
+            165
+          ],
+          "id": 4,
+          "sentence": "切碎新鲜香菜并将青柠切片"
+        },
+        {
+          "segment": [
+            173,
+            180
+          ],
+          "id": 5,
+          "sentence": "将所有贻贝放入锅中搅拌"
+        },
+        {
+          "segment": [
+            196,
+            210
+          ],
+          "id": 6,
+          "sentence": "将贻贝壳从碗中取出，挤上柠檬汁"
+        },
+        {
+          "segment": [
+            220,
+            228
+          ],
+          "id": 7,
+          "sentence": "将酱汁浇在贻贝壳上"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=nfYzqyureLo"
+    },
+    "skrWT6xHVoI": {
+      "duration": 191.59,
+      "subset": "training",
+      "recipe_type": "120",
+      "annotations": [
+        {
+          "segment": [
+            22,
+            72
+          ],
+          "id": 0,
+          "sentence": "将腰果、洋葱粉、水和鸡肉调味料放入搅拌机打匀"
+        },
+        {
+          "segment": [
+            74,
+            80
+          ],
+          "id": 1,
+          "sentence": "将混合物浇在薯饼上"
+        },
+        {
+          "segment": [
+            87,
+            112
+          ],
+          "id": 2,
+          "sentence": "将薯饼与酱汁混合"
+        },
+        {
+          "segment": [
+            114,
+            132
+          ],
+          "id": 3,
+          "sentence": "加入切丁的洋葱并拌匀"
+        },
+        {
+          "segment": [
+            133,
+            155
+          ],
+          "id": 4,
+          "sentence": "在涂了橄榄油的烤盘上松散铺开混合物，放入烤箱"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=skrWT6xHVoI"
+    },
+    "BGCW_PWhY9g": {
+      "duration": 106.42,
+      "subset": "training",
+      "recipe_type": "317",
+      "annotations": [
+        {
+          "segment": [
+            24,
+            27
+          ],
+          "id": 0,
+          "sentence": "切碎青葱和大蒜"
+        },
+        {
+          "segment": [
+            28,
+            58
+          ],
+          "id": 1,
+          "sentence": "在碗中加入蒜末、红糖、酱油、米酒、香油、蜂蜜和黑胡椒粉"
+        },
+        {
+          "segment": [
+            62,
+            75
+          ],
+          "id": 2,
+          "sentence": "切开鸡肉并与腌料混合"
+        },
+        {
+          "segment": [
+            78,
+            89
+          ],
+          "id": 3,
+          "sentence": "给平底锅刷油，放上鸡肉煎熟"
+        },
+        {
+          "segment": [
+            94,
+            98
+          ],
+          "id": 4,
+          "sentence": "在鸡肉上撒青葱并上桌"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=BGCW_PWhY9g"
+    },
+    "EjHxMfOdl1k": {
+      "duration": 287.34000000000003,
+      "subset": "training",
+      "recipe_type": "127",
+      "annotations": [
+        {
+          "segment": [
+            68,
+            90
+          ],
+          "id": 0,
+          "sentence": "在锅中用食用油煎鸡块"
+        },
+        {
+          "segment": [
+            94,
+            113
+          ],
+          "id": 1,
+          "sentence": "加入少许水、塔可调味料并搅拌鸡肉"
+        },
+        {
+          "segment": [
+            122,
+            150
+          ],
+          "id": 2,
+          "sentence": "将鸡肉、黑豆、青葱、香菜和辣椒放入米饭中"
+        },
+        {
+          "segment": [
+            151,
+            187
+          ],
+          "id": 3,
+          "sentence": "混合所有食材"
+        },
+        {
+          "segment": [
+            211,
+            262
+          ],
+          "id": 4,
+          "sentence": "在玉米饼上放馅料和奶酪，卷成墨西哥卷饼"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=EjHxMfOdl1k"
+    },
+    "MIXkGU4TJp0": {
+      "duration": 266.94,
+      "subset": "training",
+      "recipe_type": "219",
+      "annotations": [
+        {
+          "segment": [
+            32,
+            100
+          ],
+          "id": 0,
+          "sentence": "将切细的卷心菜放入罐子"
+        },
+        {
+          "segment": [
+            105,
+            141
+          ],
+          "id": 1,
+          "sentence": "在罐中加入糖、盐和醋"
+        },
+        {
+          "segment": [
+            150,
+            207
+          ],
+          "id": 2,
+          "sentence": "用开水灌满罐子并盖上盖子"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=MIXkGU4TJp0"
+    },
+    "Ap3g0IRcjzU": {
+      "duration": 492.52,
+      "subset": "training",
+      "recipe_type": "304",
+      "annotations": [
+        {
+          "segment": [
+            135,
+            175
+          ],
+          "id": 0,
+          "sentence": "修整猪肉脂肪并切成片"
+        },
+        {
+          "segment": [
+            176,
+            179
+          ],
+          "id": 1,
+          "sentence": "用少许盐和胡椒调味"
+        },
+        {
+          "segment": [
+            180,
+            209
+          ],
+          "id": 2,
+          "sentence": "将一根青葱切成约2.5厘米长"
+        },
+        {
+          "segment": [
+            214,
+            225
+          ],
+          "id": 3,
+          "sentence": "将红洋葱切成条"
+        },
+        {
+          "segment": [
+            226,
+            242
+          ],
+          "id": 4,
+          "sentence": "将芥兰切成约1.3厘米的小段"
+        },
+        {
+          "segment": [
+            245,
+            267
+          ],
+          "id": 5,
+          "sentence": "将蘑菇切成薄片"
+        },
+        {
+          "segment": [
+            274,
+            290
+          ],
+          "id": 6,
+          "sentence": "在碗中混合酱油、水和糖"
+        },
+        {
+          "segment": [
+            299,
+            323
+          ],
+          "id": 7,
+          "sentence": "在水中煮熟乌冬面"
+        },
+        {
+          "segment": [
+            345,
+            362
+          ],
+          "id": 8,
+          "sentence": "煮熟芥兰并沥干"
+        },
+        {
+          "segment": [
+            372,
+            411
+          ],
+          "id": 9,
+          "sentence": "用油煸炒猪肉、青葱、红洋葱、胡萝卜、蘑菇和芥兰"
+        },
+        {
+          "segment": [
+            412,
+            419
+          ],
+          "id": 10,
+          "sentence": "加入乌冬面继续烹煮"
+        },
+        {
+          "segment": [
+            425,
+            449
+          ],
+          "id": 11,
+          "sentence": "加入预制酱汁并翻炒"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=Ap3g0IRcjzU"
+    },
+    "7nH0Y3agsas": {
+      "duration": 218.29,
+      "subset": "training",
+      "recipe_type": "202",
+      "annotations": [
+        {
+          "segment": [
+            47,
+            80
+          ],
+          "id": 0,
+          "sentence": "在锅中用油煸炒洋葱、香草和蔬菜"
+        },
+        {
+          "segment": [
+            81,
+            89
+          ],
+          "id": 1,
+          "sentence": "向锅中倒水"
+        },
+        {
+          "segment": [
+            90,
+            97
+          ],
+          "id": 2,
+          "sentence": "搅拌均匀并煮熟"
+        },
+        {
+          "segment": [
+            98,
+            126
+          ],
+          "id": 3,
+          "sentence": "将土豆、卷心菜和意面加入锅中搅拌"
+        },
+        {
+          "segment": [
+            129,
+            173
+          ],
+          "id": 4,
+          "sentence": "将面粉糊、番茄、香草和调味料加入锅中搅拌"
+        },
+        {
+          "segment": [
+            182,
+            187
+          ],
+          "id": 5,
+          "sentence": "用欧芹点缀"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=7nH0Y3agsas"
+    },
+    "wXA-1ZmvuEA": {
+      "duration": 431.98,
+      "subset": "training",
+      "recipe_type": "325",
+      "annotations": [
+        {
+          "segment": [
+            85,
+            114
+          ],
+          "id": 0,
+          "sentence": "将豆腐切成条"
+        },
+        {
+          "segment": [
+            120,
+            202
+          ],
+          "id": 1,
+          "sentence": "在锅中加入油、姜、豆酱、辣椒酱、蘑菇、青葱、百合和蔬菜高汤"
+        },
+        {
+          "segment": [
+            225,
+            304
+          ],
+          "id": 2,
+          "sentence": "加入酱油、醋、黑胡椒和切好的豆腐"
+        },
+        {
+          "segment": [
+            338,
+            365
+          ],
+          "id": 3,
+          "sentence": "加入玉米淀粉和水并搅拌"
+        },
+        {
+          "segment": [
+            375,
+            395
+          ],
+          "id": 4,
+          "sentence": "加入鸡蛋和香油"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=wXA-1ZmvuEA"
+    },
+    "Kbrkj7wZ4UA": {
+      "duration": 466.40999999999997,
+      "subset": "training",
+      "recipe_type": "419",
+      "annotations": [
+        {
+          "segment": [
+            72,
+            82
+          ],
+          "id": 0,
+          "sentence": "在碗中加入泡打粉、盐和面粉并混合"
+        },
+        {
+          "segment": [
+            85,
+            98
+          ],
+          "id": 1,
+          "sentence": "在碗中加入融化黄油、酸奶、蒜末和香菜叶并混合"
+        },
+        {
+          "segment": [
+            99,
+            112
+          ],
+          "id": 2,
+          "sentence": "向碗中加水并揉面"
+        },
+        {
+          "segment": [
+            113,
+            140
+          ],
+          "id": 3,
+          "sentence": "撒干面粉并继续揉面"
+        },
+        {
+          "segment": [
+            160,
+            166
+          ],
+          "id": 4,
+          "sentence": "用保鲜膜包裹面团"
+        },
+        {
+          "segment": [
+            235,
+            293
+          ],
+          "id": 5,
+          "sentence": "将面团擀成薄片"
+        },
+        {
+          "segment": [
+            317,
+            333
+          ],
+          "id": 6,
+          "sentence": "在馕饼上拍水并放在热锅上"
+        },
+        {
+          "segment": [
+            343,
+            346
+          ],
+          "id": 7,
+          "sentence": "翻面并盖上锅盖"
+        },
+        {
+          "segment": [
+            352,
+            358
+          ],
+          "id": 8,
+          "sentence": "从锅中取出馕饼装盘并抹上黄油"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=Kbrkj7wZ4UA"
+    },
+    "pluBtIfxUvE": {
+      "duration": 212.16,
+      "subset": "training",
+      "recipe_type": "104",
+      "annotations": [
+        {
+          "segment": [
+            21,
+            33
+          ],
+          "id": 0,
+          "sentence": "将龙虾放入锅中"
+        },
+        {
+          "segment": [
+            58,
+            67
+          ],
+          "id": 1,
+          "sentence": "将蛋液浇在龙虾上"
+        },
+        {
+          "segment": [
+            73,
+            150
+          ],
+          "id": 2,
+          "sentence": "在锅中翻动鸡蛋"
+        },
+        {
+          "segment": [
+            152,
+            170
+          ],
+          "id": 3,
+          "sentence": "将炒蛋盛盘并配上吐司"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=pluBtIfxUvE"
+    },
+    "pOP5Zzm19kc": {
+      "duration": 300.58,
+      "subset": "training",
+      "recipe_type": "323",
+      "annotations": [
+        {
+          "segment": [
+            24,
+            38
+          ],
+          "id": 0,
+          "sentence": "用水冲洗藜麦"
+        },
+        {
+          "segment": [
+            41,
+            57
+          ],
+          "id": 1,
+          "sentence": "在锅中加入藜麦、水和盐"
+        },
+        {
+          "segment": [
+            71,
+            82
+          ],
+          "id": 2,
+          "sentence": "将火腿切丁"
+        },
+        {
+          "segment": [
+            101,
+            137
+          ],
+          "id": 3,
+          "sentence": "在平底锅中煎火腿、甜椒和洋葱"
+        },
+        {
+          "segment": [
+            140,
+            147
+          ],
+          "id": 4,
+          "sentence": "向锅中加入大蒜"
+        },
+        {
+          "segment": [
+            175,
+            186
+          ],
+          "id": 5,
+          "sentence": "将藜麦加入锅中"
+        },
+        {
+          "segment": [
+            195,
+            216
+          ],
+          "id": 6,
+          "sentence": "向锅中加入米醋、酱油和是拉差辣酱"
+        },
+        {
+          "segment": [
+            221,
+            231
+          ],
+          "id": 7,
+          "sentence": "向锅中加入青葱"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=pOP5Zzm19kc"
+    },
+    "dxSSb3tv5ZM": {
+      "duration": 265.22,
+      "subset": "training",
+      "recipe_type": "318",
+      "annotations": [
+        {
+          "segment": [
+            14,
+            20
+          ],
+          "id": 0,
+          "sentence": "将切碎的青葱放入碗中"
+        },
+        {
+          "segment": [
+            32,
+            41
+          ],
+          "id": 1,
+          "sentence": "将梨与大蒜打成泥"
+        },
+        {
+          "segment": [
+            43,
+            61
+          ],
+          "id": 2,
+          "sentence": "向青葱中加入红糖"
+        },
+        {
+          "segment": [
+            70,
+            117
+          ],
+          "id": 3,
+          "sentence": "混合酱油、味醂、米醋和蜂蜜"
+        },
+        {
+          "segment": [
+            120,
+            127
+          ],
+          "id": 4,
+          "sentence": "向青葱中加入少许现磨胡椒"
+        },
+        {
+          "segment": [
+            130,
+            150
+          ],
+          "id": 5,
+          "sentence": "将混合液体和打好的梨泥倒入青葱碗中"
+        },
+        {
+          "segment": [
+            153,
+            161
+          ],
+          "id": 6,
+          "sentence": "搅拌所有食材"
+        },
+        {
+          "segment": [
+            164,
+            170
+          ],
+          "id": 7,
+          "sentence": "淋入少许香油"
+        },
+        {
+          "segment": [
+            191,
+            213
+          ],
+          "id": 8,
+          "sentence": "腌制牛肉"
+        },
+        {
+          "segment": [
+            226,
+            256
+          ],
+          "id": 9,
+          "sentence": "在平底锅上煎腌制好的牛肉"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=dxSSb3tv5ZM"
+    },
+    "acMP2DOpWeA": {
+      "duration": 174.94,
+      "subset": "training",
+      "recipe_type": "108",
+      "annotations": [
+        {
+          "segment": [
+            35,
+            52
+          ],
+          "id": 0,
+          "sentence": "将低筋面粉、糖、玉米淀粉、泡打粉和盐放入碗中过筛混合"
+        },
+        {
+          "segment": [
+            53,
+            57
+          ],
+          "id": 1,
+          "sentence": "用打蛋器充分搅拌碗中干粉"
+        },
+        {
+          "segment": [
+            58,
+            62
+          ],
+          "id": 2,
+          "sentence": "在碗中打一个鸡蛋"
+        },
+        {
+          "segment": [
+            63,
+            69
+          ],
+          "id": 3,
+          "sentence": "向碗中加入牛奶并搅匀"
+        },
+        {
+          "segment": [
+            71,
+            86
+          ],
+          "id": 4,
+          "sentence": "加入干性材料搅拌至均匀"
+        },
+        {
+          "segment": [
+            87,
+            93
+          ],
+          "id": 5,
+          "sentence": "加入食用油并搅拌"
+        },
+        {
+          "segment": [
+            94,
+            97
+          ],
+          "id": 6,
+          "sentence": "用保鲜膜盖住碗"
+        },
+        {
+          "segment": [
+            100,
+            104
+          ],
+          "id": 7,
+          "sentence": "用中火加热不粘锅"
+        },
+        {
+          "segment": [
+            105,
+            115
+          ],
+          "id": 8,
+          "sentence": "将锅放在湿毛巾上关火，再把锅放回炉灶上"
+        },
+        {
+          "segment": [
+            116,
+            123
+          ],
+          "id": 9,
+          "sentence": "将面糊倒入锅中"
+        },
+        {
+          "segment": [
+            124,
+            132
+          ],
+          "id": 10,
+          "sentence": "出现气泡时翻面"
+        },
+        {
+          "segment": [
+            133,
+            136
+          ],
+          "id": 11,
+          "sentence": "煎至另一面呈金黄色"
+        },
+        {
+          "segment": [
+            139,
+            142
+          ],
+          "id": 12,
+          "sentence": "在松饼上放一块黄油并淋上枫糖浆"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=acMP2DOpWeA"
+    },
+    "Gs3OGfQbPjc": {
+      "duration": 156.53,
+      "subset": "training",
+      "recipe_type": "102",
+      "annotations": [
+        {
+          "segment": [
+            30,
+            36
+          ],
+          "id": 0,
+          "sentence": "将三种面粉混合放入碗中"
+        },
+        {
+          "segment": [
+            37,
+            54
+          ],
+          "id": 1,
+          "sentence": "加入1个鸡蛋、半杯水、盐和糖并搅拌"
+        },
+        {
+          "segment": [
+            57,
+            68
+          ],
+          "id": 2,
+          "sentence": "将洋葱切成圈"
+        },
+        {
+          "segment": [
+            83,
+            97
+          ],
+          "id": 3,
+          "sentence": "将洋葱圈先蘸液体糊再裹面包糠"
+        },
+        {
+          "segment": [
+            103,
+            130
+          ],
+          "id": 4,
+          "sentence": "在浅油中炸洋葱圈"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=Gs3OGfQbPjc"
+    },
+    "TkK7BbBNPaY": {
+      "duration": 273.23,
+      "subset": "training",
+      "recipe_type": "209",
+      "annotations": [
+        {
+          "segment": [
+            24,
+            30
+          ],
+          "id": 0,
+          "sentence": "在锅中加入油、切碎的洋葱、大蒜和盐"
+        },
+        {
+          "segment": [
+            53,
+            60
+          ],
+          "id": 1,
+          "sentence": "将羊肉放入锅中翻炒"
+        },
+        {
+          "segment": [
+            126,
+            130
+          ],
+          "id": 2,
+          "sentence": "向羊肉中加入一小碗面粉"
+        },
+        {
+          "segment": [
+            132,
+            149
+          ],
+          "id": 3,
+          "sentence": "向锅中加入伍斯特酱、番茄泥、牛肉高汤和水"
+        },
+        {
+          "segment": [
+            153,
+            157
+          ],
+          "id": 4,
+          "sentence": "向锅中加入百里香"
+        },
+        {
+          "segment": [
+            206,
+            215
+          ],
+          "id": 5,
+          "sentence": "向锅中加入胡萝卜和切丁的芜菁"
+        },
+        {
+          "segment": [
+            236,
+            247
+          ],
+          "id": 6,
+          "sentence": "在羊肉上铺上土豆泥"
+        },
+        {
+          "segment": [
+            256,
+            259
+          ],
+          "id": 7,
+          "sentence": "将锅放入烤箱"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=TkK7BbBNPaY"
+    },
+    "_bICKhr9AGo": {
+      "duration": 344.65,
+      "subset": "training",
+      "recipe_type": "413",
+      "annotations": [
+        {
+          "segment": [
+            40,
+            62
+          ],
+          "id": 0,
+          "sentence": "将猪肩肉块、老抽、生抽、中式米酒、肉桂棒和水放入锅中"
+        },
+        {
+          "segment": [
+            63,
+            85
+          ],
+          "id": 1,
+          "sentence": "煮沸并撇去浮沫"
+        },
+        {
+          "segment": [
+            95,
+            106
+          ],
+          "id": 2,
+          "sentence": "在碗中加入醋、糖和盐并搅拌"
+        },
+        {
+          "segment": [
+            108,
+            120
+          ],
+          "id": 3,
+          "sentence": "将胡萝卜和白萝卜加入碗中搅拌"
+        },
+        {
+          "segment": [
+            142,
+            150
+          ],
+          "id": 4,
+          "sentence": "向猪肉中加入糖并搅拌"
+        },
+        {
+          "segment": [
+            154,
+            162
+          ],
+          "id": 5,
+          "sentence": "将猪肉炖煮汤汁和鱼露加入碗中"
+        },
+        {
+          "segment": [
+            167,
+            173
+          ],
+          "id": 6,
+          "sentence": "沥干胡萝卜和白萝卜腌菜"
+        },
+        {
+          "segment": [
+            178,
+            190
+          ],
+          "id": 7,
+          "sentence": "将猪肉切成薄片"
+        },
+        {
+          "segment": [
+            198,
+            209
+          ],
+          "id": 8,
+          "sentence": "将法棍纵向切开并涂抹蛋黄酱"
+        },
+        {
+          "segment": [
+            213,
+            231
+          ],
+          "id": 9,
+          "sentence": "在面包上涂抹肉酱"
+        },
+        {
+          "segment": [
+            235,
+            295
+          ],
+          "id": 10,
+          "sentence": "在面包上放生菜、腌菜、黄瓜、葱、香菜、墨西哥辣椒和猪肉"
+        },
+        {
+          "segment": [
+            297,
+            301
+          ],
+          "id": 11,
+          "sentence": "在三明治上加入炖煮混合液和鱼露"
+        },
+        {
+          "segment": [
+            314,
+            318
+          ],
+          "id": 12,
+          "sentence": "在三明治上加入肉松"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=_bICKhr9AGo"
+    },
+    "dxK5n3J9pdY": {
+      "duration": 430.38,
+      "subset": "training",
+      "recipe_type": "418",
+      "annotations": [
+        {
+          "segment": [
+            136,
+            152
+          ],
+          "id": 0,
+          "sentence": "在高压锅中用姜煮鹰嘴豆"
+        },
+        {
+          "segment": [
+            178,
+            198
+          ],
+          "id": 1,
+          "sentence": "在锅中加入油和青辣椒"
+        },
+        {
+          "segment": [
+            208,
+            230
+          ],
+          "id": 2,
+          "sentence": "取出辣椒，加入孜然籽和鹰嘴豆粉"
+        },
+        {
+          "segment": [
+            240,
+            264
+          ],
+          "id": 3,
+          "sentence": "将打碎的番茄加入锅中搅拌"
+        },
+        {
+          "segment": [
+            274,
+            284
+          ],
+          "id": 4,
+          "sentence": "加入香菜粉、黑盐和青辣椒"
+        },
+        {
+          "segment": [
+            298,
+            304
+          ],
+          "id": 5,
+          "sentence": "加入盐和黑盐"
+        },
+        {
+          "segment": [
+            307,
+            324
+          ],
+          "id": 6,
+          "sentence": "将鹰嘴豆加入锅中并盖上锅盖"
+        },
+        {
+          "segment": [
+            345,
+            364
+          ],
+          "id": 7,
+          "sentence": "加入马萨拉粉和水"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=dxK5n3J9pdY"
+    },
+    "pOWe4zB-E-4": {
+      "duration": 275.5,
+      "subset": "training",
+      "recipe_type": "425",
+      "annotations": [
+        {
+          "segment": [
+            5,
+            78
+          ],
+          "id": 0,
+          "sentence": "混合精制面粉、米粉、粗粒小麦粉、咖喱叶、盐、孜然籽和阿魏"
+        },
+        {
+          "segment": [
+            78,
+            114
+          ],
+          "id": 1,
+          "sentence": "向混合物中加入水、姜和辣椒"
+        },
+        {
+          "segment": [
+            130,
+            150
+          ],
+          "id": 2,
+          "sentence": "加入黑胡椒和椰丝"
+        },
+        {
+          "segment": [
+            155,
+            162
+          ],
+          "id": 3,
+          "sentence": "向面团中加入牛奶"
+        },
+        {
+          "segment": [
+            190,
+            205
+          ],
+          "id": 4,
+          "sentence": "在锅中摊开面糊"
+        },
+        {
+          "segment": [
+            218,
+            228
+          ],
+          "id": 5,
+          "sentence": "在边缘淋油"
+        },
+        {
+          "segment": [
+            228,
+            235
+          ],
+          "id": 6,
+          "sentence": "翻面"
+        },
+        {
+          "segment": [
+            244,
+            256
+          ],
+          "id": 7,
+          "sentence": "在薄饼上放上土豆馅料"
+        },
+        {
+          "segment": [
+            256,
+            263
+          ],
+          "id": 8,
+          "sentence": "将薄饼对折"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=pOWe4zB-E-4"
+    },
+    "zEdAA9Oxpdw": {
+      "duration": 211.32,
+      "subset": "training",
+      "recipe_type": "219",
+      "annotations": [
+        {
+          "segment": [
+            50,
+            71
+          ],
+          "id": 0,
+          "sentence": "切碎一整颗大白菜"
+        },
+        {
+          "segment": [
+            78,
+            112
+          ],
+          "id": 1,
+          "sentence": "在锅中热油并煸炒切碎的卷心菜"
+        },
+        {
+          "segment": [
+            114,
+            150
+          ],
+          "id": 2,
+          "sentence": "加入少许苹果醋并继续煸炒卷心菜"
+        },
+        {
+          "segment": [
+            151,
+            203
+          ],
+          "id": 3,
+          "sentence": "加入盐、芥末籽粉、红糖并搅拌"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=zEdAA9Oxpdw"
+    },
+    "7Ui4OCsawAU": {
+      "duration": 451.88,
+      "subset": "training",
+      "recipe_type": "215",
+      "annotations": [
+        {
+          "segment": [
+            58,
+            68
+          ],
+          "id": 0,
+          "sentence": "切碎一根欧芹茎"
+        },
+        {
+          "segment": [
+            69,
+            85
+          ],
+          "id": 1,
+          "sentence": "将几瓣大蒜切碎"
+        },
+        {
+          "segment": [
+            89,
+            100
+          ],
+          "id": 2,
+          "sentence": "将几根辣椒切碎"
+        },
+        {
+          "segment": [
+            124,
+            139
+          ],
+          "id": 3,
+          "sentence": "将一条黄油切成薄片并加入蔬菜中"
+        },
+        {
+          "segment": [
+            140,
+            180
+          ],
+          "id": 4,
+          "sentence": "在碗中加入盐、黑胡椒和面包糠并混合"
+        },
+        {
+          "segment": [
+            181,
+            208
+          ],
+          "id": 5,
+          "sentence": "将黄油混合物填入空壳中"
+        },
+        {
+          "segment": [
+            217,
+            224
+          ],
+          "id": 6,
+          "sentence": "将蜗牛放入壳内"
+        },
+        {
+          "segment": [
+            225,
+            230
+          ],
+          "id": 7,
+          "sentence": "在蜗牛上覆盖黄油混合物"
+        },
+        {
+          "segment": [
+            283,
+            290
+          ],
+          "id": 8,
+          "sentence": "将蜗牛蘸上面包糠"
+        },
+        {
+          "segment": [
+            314,
+            338
+          ],
+          "id": 9,
+          "sentence": "在烤盘中倒入少许水，放上蜗牛，送入烤箱"
+        },
+        {
+          "segment": [
+            355,
+            379
+          ],
+          "id": 10,
+          "sentence": "从烤箱取出蜗牛并装盘"
+        },
+        {
+          "segment": [
+            395,
+            408
+          ],
+          "id": 11,
+          "sentence": "在装有蜗牛的盘子上放上蒜香面包块"
+        }
+      ],
+      "video_url": "https://www.youtube.com/watch?v=7Ui4OCsawAU"
+    }
+  }
+}
